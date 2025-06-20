@@ -1,0 +1,39 @@
+baseURL = "https://survivalcartola.github.io/"
+languageCode = "pt-br"
+title = "Cartola Survival"
+theme = "ananke"
+paginate = 10
+defaultContentLanguage = "pt-br"
+
+[params]
+  author = "Miguel"
+  description = "Portal de resistência ideológica, sobrevivencialismo e verdade inegociável."
+  show_reading_time = true
+  mainSections = ["posts"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Início"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Artigos"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "sobre"
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 3
+X
+

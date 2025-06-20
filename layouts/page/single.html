@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <div class="pa3 pa4-ns w-100 w-70-ns center">
+    <header>
+      <h1 class="f2 lh-title">{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+        <h2 class="f3 lh-copy">{{ . }}</h2>
+      {{ end }}
+    </header>
+
+    <section class="prose">
+      {{ .Content }}
+    </section>
+  </div>
+{{ end }}

@@ -1,0 +1,14 @@
+{{- $title := .Title -}}
+{{- $description := .Params.description | default .Site.Params.description -}}
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+  <meta name="description" content="{{ $description }}">
+  <title>{{ $title }} | {{ .Site.Title }}</title>
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ partialCached "css.html" . }}
+  {{ partialCached "js.html" . }}
+  <link rel="stylesheet" href="/css/custom.css">
+</head>
