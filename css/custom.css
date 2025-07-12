@@ -1,0 +1,39 @@
+.header-totalitaria {
+  background: url('/img/metal_enferrujado_texture.jpg') no-repeat center;
+  background-size: cover;
+  text-align: center;
+  padding: 60px 20px;
+  border-bottom: 4px solid #8b0000;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.7);
+}
+
+.brasao-central img {
+  width: 120px;
+  height: auto;
+  filter: sepia(60%) contrast(120%) brightness(80%);
+}
+
+.header-totalitaria h1 {
+  font-family: 'Cinzel Decorative', serif;
+  color: #e0c25c;
+  font-size: 3rem;
+  margin: 10px 0 0 0;
+  text-shadow: 1px 1px 4px #000;
+}
+
+.header-totalitaria h2 {
+  font-family: 'IM Fell DW Pica', serif;
+  color: #aa8833;
+  font-size: 1.4rem;
+  margin: 0;
+  letter-spacing: 2px;
+}
+
+.slogan {
+  font-style: italic;
+  font-size: 1.1rem;
+  color: #f2f2f2;
+  margin-top: 10px;
+  font-family: 'Spectral', serif;
+  text-shadow: 1px 1px 2px #000;
+}
