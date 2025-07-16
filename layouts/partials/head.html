@@ -1,14 +1,56 @@
-{{- $title := .Title -}}
+{{- $title := .Title | default .Site.Title -}}
 {{- $description := .Params.description | default .Site.Params.description -}}
+{{- $author := .Site.Author.name | default "Cartola Survival" -}}
+{{- $canonical := .Permalink | default .Site.BaseURL -}}
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="index, follow">
   <meta name="description" content="{{ $description }}">
   <title>{{ $title }} | {{ .Site.Title }}</title>
-  <link rel="canonical" href="{{ .Permalink }}">
-  {{ partialCached "css.html" . }}
-  {{ partialCached "js.html" . }}
-  <link rel="stylesheet" href="/css/custom.css">
+  <link rel="canonical" href="{{ $canonical }}">
+
+  <!-- SEO -->
+  <meta name="author" content="{{ $author }}">
+  <meta name="keywords" content="{{ delimit .Params.tags ", " }}">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ $title }}">
+  <meta property="og:description" content="{{ $description }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ $canonical }}">
+  {{ with .Params.featured_image }}
+    <meta property="og:image" content="{{ . | absURL }}">
+  {{ else }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}img/default-share.jpg">
+  {{ end }}
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ $title }}">
+  <meta name="twitter:description" content="{{ $description }}">
+  {{ with .Params.featured_image }}
+    <meta name="twitter:image" content="{{ . | absURL }}">
+  {{ else }}
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}img/default-share.jpg">
+  {{ end }}
+
+  <!-- Links para redes sociais -->
+  <meta property="og:see_also" content="https://odysee.com/@CartolaSurvival:b?r=4R3kYk4Khsbz9wY71zwvgHHkgYWFgx2P" />
+  <meta property="og:see_also" content="https://youtube.com/@survivalcartola" />
+  <meta property="og:see_also" content="https://t.me/linkcartola" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="{{ .Site.BaseURL }}img/favicon.ico" type="image/x-icon">
+
+  <!-- Google Fonts -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap">
+
+  <!-- CSS -->
+  {{ partial "css.html" . }}
+
+  <!-- JS -->
+  {{ partial "js.html" . }}
 </head>
+
