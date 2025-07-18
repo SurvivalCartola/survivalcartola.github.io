@@ -1,52 +1,59 @@
-/* Tecnoruína - Cartola Survival */
-body {
-  background-color: #000000;
-  color: #f2f2f2;
-  font-family: 'IBM Plex Mono', monospace;
-}
+/* Tema Monumental - Cartola Survival - Revisado para layout correto */
 
-a {
-  color: #e0c25c;
-  text-decoration: none;
-}
+/* Reset básico */ body, h1, h2, h3, p, ul { margin: 0; padding: 0; box-sizing: border-box; }
 
-a:hover {
-  color: #b7410e;
-  text-shadow: 0 0 2px #aa8833;
-}
+body { background-color: #0b0b0b; color: #d4d4d4; font-family: 'Merriweather', serif; line-height: 1.7; font-size: 18px; margin: 0; padding: 0; }
 
-header, nav, footer {
-  background-color: #1a1a1a;
-  border-bottom: 2px solid #b7410e;
-}
+/* Conteúdo principal com moldura dourada */ .conteudo-central { max-width: 960px; margin: 0 auto; padding: 40px 20px; border-left: 2px solid #a67843; border-right: 2px solid #a67843; }
 
-h1, h2, h3 {
-  font-family: 'Cinzel Decorative', serif;
-  color: #aa8833;
-  text-transform: uppercase;
-}
+header, footer, nav { max-width: 100%; padding: 20px; text-align: center; }
 
-blockquote {
-  font-family: 'Libre Baskerville', serif;
-  border-left: 4px solid #8b0000;
-  padding-left: 1rem;
-  color: #e0c25c;
-  background: rgba(255,255,255,0.05);
-}
-.brasao-parodico {
-  text-align: center;
-  background: linear-gradient(to bottom, #1a1a1a, #000000);
-  padding: 1rem;
-  border-bottom: 3px double #8b0000;
-}
-.titulo-site {
-  font-family: 'Cinzel Decorative', serif;
-  font-size: 1.8rem;
-  color: #aa8833;
-}
-.subtitulo-site {
-  font-family: 'Courier New', monospace;
-  font-size: 0.9rem;
-  color: #e0c25c;
-  margin-top: -10px;
-}
+h1, h2, h3 { font-family: 'Cinzel', serif; text-transform: uppercase; color: #e0c58f; margin-top: 60px; margin-bottom: 20px; line-height: 1.3; }
+
+h1 { font-size: 48px; border-bottom: 2px solid #a67843; padding-bottom: 10px; }
+
+h2 { font-size: 36px; border-bottom: 1px solid #a67843; padding-bottom: 8px; }
+
+h3 { font-size: 28px; }
+
+p { margin-bottom: 20px; }
+
+ul { margin-left: 20px; margin-bottom: 20px; }
+
+li { margin-bottom: 10px; }
+
+hr { border: none; border-top: 1px solid #444; margin: 40px 0; }
+
+a { color: #e0c58f; text-decoration: none; font-weight: bold; }
+
+a:hover { color: #f1e2b6; text-decoration: underline; }
+
+footer { text-align: center; font-size: 14px; color: #888; margin-top: 60px; padding-top: 20px; border-top: 1px solid #444; }
+
+blockquote { border-left: 4px solid #a67843; margin: 40px 0; padding: 20px; background-color: #1a1a1a; font-style: italic; color: #c9b48e; }
+
+table { width: 100%; border-collapse: collapse; margin: 40px 0; }
+
+td, th { border: 1px solid #a67843; padding: 12px; }
+
+th { background-color: #1f1f1f; color: #e0c58f; }
+
+header { margin-bottom: 60px; }
+
+header h1 { font-size: 64px; color: #e0c58f; }
+
+header p { font-size: 20px; color: #c0bba9; margin-top: 10px; }
+
+section { margin-bottom: 80px; }
+
+nav ul { list-style: none; display: flex; justify-content: center; margin-bottom: 60px; }
+
+nav li { margin: 0 20px; }
+
+nav a { font-size: 18px; color: #e0c58f; text-transform: uppercase; }
+
+nav a:hover { color: #f1e2b6; border-bottom: 2px solid #a67843; }
+
+@media (max-width: 768px) { .conteudo-central { padding: 20px 10px; } body { font-size: 16px; } h1 { font-size: 36px; } h2 { font-size: 28px; } h3 { font-size: 24px; } header h1 { font-size: 48px; } }
+
+
