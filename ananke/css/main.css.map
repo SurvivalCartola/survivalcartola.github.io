@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/data/data/com.termux/files/home/meusite",
+	"sourceRoot": "/home/miguelcs/meusite",
 	"sources": [
 		"ananke/css/main.css",
 		"themes/ananke/assets/ananke/css/_cartola.css"
