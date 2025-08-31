@@ -243,3 +243,14 @@ nav a:hover {
         font-size: 16px;
     }
 }
+/*Forçar a cor tipográfica em todo corpo de texto. */
+article, article p, article span, article div,
+.post-content, .entry-content, post-body {
+    color: #d4d4d4 !important;
+}
+
+/*Forçar Tipografia dentro dos artigos.*/
+article p {
+    font-family: 'Lora', serif !important;
+}
+
