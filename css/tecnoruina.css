@@ -10,7 +10,7 @@ body, h1, h2, h3, p, ul {
 /* Tipografia Base */
 body {
     background-color: #0b0b0b !important;
-    color: #d4d4d4;
+    color: #d4d4d4 !important;
     font-family: 'Lora', serif !important; /* Substitui Merriweather por Lora */
     font-weight: 400;
     line-height: 1.7;
