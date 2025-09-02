@@ -254,3 +254,9 @@ article p {
     font-family: 'Lora', serif !important;
 }
 
+/*Define a cor dos artigos na sessão artigos.*/
+
+.bg-white {
+    background-color: #1a1a1a !important;
+
+}
