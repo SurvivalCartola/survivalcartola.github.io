@@ -6,27 +6,48 @@
     <description>Recent content in Categories on Cartola Survival</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://survivalcartola.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cartola Survival</title>
       <link>https://survivalcartola.github.io/categories/cartola-survival/</link>
-      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://survivalcartola.github.io/categories/cartola-survival/</guid>
       <description></description>
     </item>
     <item>
       <title>Doutrina</title>
       <link>https://survivalcartola.github.io/categories/doutrina/</link>
-      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://survivalcartola.github.io/categories/doutrina/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofia</title>
+      <link>https://survivalcartola.github.io/categories/filosofia/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://survivalcartola.github.io/categories/filosofia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manifestos</title>
+      <link>https://survivalcartola.github.io/categories/manifestos/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://survivalcartola.github.io/categories/manifestos/</guid>
       <description></description>
     </item>
     <item>
       <title>Política</title>
       <link>https://survivalcartola.github.io/categories/pol%C3%ADtica/</link>
-      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://survivalcartola.github.io/categories/pol%C3%ADtica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saúde</title>
+      <link>https://survivalcartola.github.io/categories/sa%C3%BAde/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://survivalcartola.github.io/categories/sa%C3%BAde/</guid>
       <description></description>
     </item>
   </channel>
