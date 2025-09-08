@@ -7,6 +7,7 @@ theme = "ananke"
 defaultContentLanguage = "pt-br"
 
 [params]
+  customCSS = ["css/tecnoruina.css"]
   author = "Miguel"
   description = "Portal de resistência ideológica, sobrevivencialismo e verdade inegociável."
   show_reading_time = true
@@ -31,7 +32,8 @@ defaultContentLanguage = "pt-br"
     url = "/posts/"
     weight = 2
 
-[[menu.main]]
+  [[menu.main]]
+    identifier = "about"
     name = "Sobre"
     url = "/about/"
     weight = 3

@@ -2,7 +2,7 @@
 ---
 title: "Aquecimento Global: Uma Análise Epistemológica da Premissa Antropogênica"
 date: 2025-06-04
-draft: false
+draft: true
 tags: ["epistemologia", "clima", "verdade", "ciência", "globalismo"]
 categories: ["análises"]
 ---

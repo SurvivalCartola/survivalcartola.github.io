@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Cartola Survival</title><link>https://survivalcartola.github.io/tags/</link><description>Recent content in Tags on Cartola Survival</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://survivalcartola.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Ciência</title><link>https://survivalcartola.github.io/tags/ci%C3%AAncia/</link><pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate><guid>https://survivalcartola.github.io/tags/ci%C3%AAncia/</guid><description/></item><item><title>Clima</title><link>https://survivalcartola.github.io/tags/clima/</link><pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate><guid>https://survivalcartola.github.io/tags/clima/</guid><description/></item><item><title>Epistemologia</title><link>https://survivalcartola.github.io/tags/epistemologia/</link><pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate><guid>https://survivalcartola.github.io/tags/epistemologia/</guid><description/></item><item><title>Globalismo</title><link>https://survivalcartola.github.io/tags/globalismo/</link><pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate><guid>https://survivalcartola.github.io/tags/globalismo/</guid><description/></item><item><title>Verdade</title><link>https://survivalcartola.github.io/tags/verdade/</link><pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate><guid>https://survivalcartola.github.io/tags/verdade/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Cartola Survival</title>
+    <link>https://survivalcartola.github.io/tags/</link>
+    <description>Recent content in Tags on Cartola Survival</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://survivalcartola.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alexandre De Moraes</title>
+      <link>https://survivalcartola.github.io/tags/alexandre-de-moraes/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://survivalcartola.github.io/tags/alexandre-de-moraes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Censura</title>
+      <link>https://survivalcartola.github.io/tags/censura/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://survivalcartola.github.io/tags/censura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Globalismo</title>
+      <link>https://survivalcartola.github.io/tags/globalismo/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://survivalcartola.github.io/tags/globalismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Juristocracia</title>
+      <link>https://survivalcartola.github.io/tags/juristocracia/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://survivalcartola.github.io/tags/juristocracia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>STF</title>
+      <link>https://survivalcartola.github.io/tags/stf/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://survivalcartola.github.io/tags/stf/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

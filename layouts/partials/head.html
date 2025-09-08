@@ -2,6 +2,7 @@
 {{- $description := .Params.description | default .Site.Params.description -}}
 {{- $author := .Site.Author.name | default "Cartola Survival" -}}
 {{- $canonical := .Permalink | default .Site.BaseURL -}}
+{{- $image := .Params.image | default "img/default-share.jpg" | absURL -}}
 
 <head>
   <meta charset="UTF-8">
@@ -11,46 +12,35 @@
   <title>{{ $title }} | {{ .Site.Title }}</title>
   <link rel="canonical" href="{{ $canonical }}">
 
-  <!-- SEO -->
+  <!-- SEO básico -->
   <meta name="author" content="{{ $author }}">
-  <meta name="keywords" content="{{ delimit .Params.tags ", " }}">
+  {{ with .Params.tags }}
+    <meta name="keywords" content="{{ delimit . ", " }}">
+  {{ end }}
 
   <!-- Open Graph -->
   <meta property="og:title" content="{{ $title }}">
   <meta property="og:description" content="{{ $description }}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="{{ $canonical }}">
-  {{ with .Params.featured_image }}
-    <meta property="og:image" content="{{ . | absURL }}">
-  {{ else }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}img/default-share.jpg">
-  {{ end }}
+  <meta property="og:image" content="{{ $image }}">
 
   <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ $title }}">
   <meta name="twitter:description" content="{{ $description }}">
-  {{ with .Params.featured_image }}
-    <meta name="twitter:image" content="{{ . | absURL }}">
-  {{ else }}
-    <meta name="twitter:image" content="{{ .Site.BaseURL }}img/default-share.jpg">
-  {{ end }}
+  <meta name="twitter:image" content="{{ $image }}">
 
-  <!-- Links para redes sociais -->
+  <!-- Links sociais -->
   <meta property="og:see_also" content="https://odysee.com/@CartolaSurvival:b?r=4R3kYk4Khsbz9wY71zwvgHHkgYWFgx2P" />
   <meta property="og:see_also" content="https://youtube.com/@survivalcartola" />
   <meta property="og:see_also" content="https://t.me/linkcartola" />
 
   <!-- Favicon -->
-  <link rel="icon" href="{{ .Site.BaseURL }}img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="{{ "img/favicon.ico" | absURL }}" type="image/x-icon">
 
-  <!-- Google Fonts -->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap">
-
-  <!-- CSS -->
+  <!-- CSS principal -->
   {{ partial "css.html" . }}
-
-  <!-- JS -->
-  {{ partial "js.html" . }}
+  <link rel="stylesheet" href="/css/tecnoruina.css">
 </head>
 
