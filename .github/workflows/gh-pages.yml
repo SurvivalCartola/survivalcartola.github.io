@@ -1,0 +1,35 @@
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Só roda quando há push na branch main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Faz checkout do código
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2. Instala Hugo
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.134.2' # substitua pela versão que você usa
+          extended: true
+
+      # 3. Build do site
+      - name: Build Hugo
+        run: hugo --minify
+
+      # 4. Deploy para o GitHub Pages
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GH_PAT }} # Token secreto que vamos criar
+          publish_branch: gh-pages            # Branch será criada automaticamente
+          publish_dir: ./public               # Pasta onde o Hugo gera os arquivos
+          force_orphan: true                  # Garante que cria/atualiza o branch do zero
