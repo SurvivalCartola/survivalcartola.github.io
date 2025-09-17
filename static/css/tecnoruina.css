@@ -267,33 +267,3 @@ article p {
   width: auto;
   display: block;
 }
-
-/* Cabeçalho alinhado */
-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 20px;
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-/* Estilização do menu */
-header nav ul {
-  display: flex;
-  gap: 30px;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-header nav ul li a {
-  color: #e0c58f;
-  text-decoration: none;
-  font-weight: 600;
-  transition: color 0.3s ease;
-}
-
-header nav ul li a:hover {
-  color: #d4d4d4;
-}

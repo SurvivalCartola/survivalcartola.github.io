@@ -1,0 +1,27 @@
+name: Backup quinzenal do site
+
+on:
+  schedule:
+    # Executa a cada 2 semanas às 03:00 UTC de segunda-feira
+    - cron: "0 3 */14 * *"
+  workflow_dispatch: # Permite rodar manualmente se quiser
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar arquivo ZIP com data e hora
+        run: |
+          mkdir -p backups
+          DATA=$(date +'%Y-%m-%d_%H-%M')
+          zip -r "backups/site_backup_$DATA.zip" .
+
+      - name: Upload do backup
+        uses: actions/upload-artifact@v4
+        with:
+          name: backup-site
+          path: backups/
+          retention-days: 30  # Mantém por 30 dias, pode ajustar
