@@ -6,7 +6,7 @@ tags= ["tirania", "vacina", "lei natural", "corrupção científica", "liberdade
 categories= ["Manifestos", "Política", "Filosofia", "Saúde", "Cartola Survival"]
 +++
 
-# MANIFESTO CONTRA A TIRANIA VACINAL: UMA DEFESA DA LEI NATURAL FRENTE À CORRUPÇÃO CIENTÍFICA E ESTATAL___
+# MANIFESTO CONTRA A TIRANIA VACINAL: UMA DEFESA DA LEI NATURAL FRENTE À CORRUPÇÃO CIENTÍFICA E ESTATAL__1
 
 **PREMISSA FUNDAMENTAL:** A Lei Natural, emanada da razão divina e acessível à reta razão humana, é a ordem imutável que precede e julga todas as leis positivas do homem. Seus princípios são superiores e invioláveis. A prática vacinal coercitiva, tal como imposta pelo aparato biomédico global, constitui uma ofensa frontal a esta Lei, operando através de meios intrinsecamente ilícitos, com consequências desastrosas comprovadas por dados históricos, jurídicos e científicos incontestáveis. Este manifesto expõe esta corrupção sistêmica.
 

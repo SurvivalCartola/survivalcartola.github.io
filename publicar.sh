@@ -2,10 +2,10 @@
 
 figlet "Cartola Survival" | lolcat
 toilet -f term -F border "Publisher" | lolcat
-echo "─────────────────────────────────────────────" | pv -qL 20
-echo " 🛡️  Publicador automático de artigos Hugo" | pv -qL 20
-echo " 🌐 Repositório: survivalcartola.github.io" | pv -qL 20
-echo "─────────────────────────────────────────────" | pv -qL 20
+echo "─────────────────────────────────────────────" |
+echo " 🛡️  Publicador automático de artigos Hugo" ||
+echo " 🌐 Repositório: survivalcartola.github.io" |
+echo "─────────────────────────────────────────────" |
 
 # Nome correto do repositório GitHub Pages
 REPO_URL="git@github.com:SurvivalCartola/survivalcartola.github.io.git"
