@@ -1,7 +1,7 @@
 +++
 title= "Manifesto contra a tirania vacinal: Uma Defasa da Lei Natural frente à Corrupção Científica e Estatal"
 date= 2025-08-28
-draft= false
+draft= true
 tags= ["tirania", "vacina", "lei natural", "corrupção científica", "liberdade", "resistência"]
 categories= ["Manifestos", "Política", "Filosofia", "Saúde", "Cartola Survival"]
 +++
