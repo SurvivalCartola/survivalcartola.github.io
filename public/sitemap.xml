@@ -2,46 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://survivalcartola.github.io/tags/alexandre-de-moraes/</loc>
+    <loc>http://localhost:1313/tags/alexandre-de-moraes/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/categories/cartola-survival/</loc>
+    <loc>http://localhost:1313/categories/cartola-survival/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/tags/censura/</loc>
+    <loc>http://localhost:1313/tags/censura/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/categories/doutrina/</loc>
+    <loc>http://localhost:1313/tags/corrup%C3%A7%C3%A3o-cient%C3%ADfica/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/tags/globalismo/</loc>
+    <loc>http://localhost:1313/categories/doutrina/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/</loc>
+    <loc>http://localhost:1313/categories/filosofia/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/tags/juristocracia/</loc>
+    <loc>http://localhost:1313/tags/globalismo/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/categories/pol%C3%ADtica/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/posts/</loc>
+    <loc>http://localhost:1313/tags/juristocracia/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/tags/stf/</loc>
+    <loc>http://localhost:1313/tags/lei-natural/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/posts/tirania_judicial/</loc>
+    <loc>http://localhost:1313/tags/liberdade/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/tags/</loc>
+    <loc>http://localhost:1313/posts/tirania_vacinal/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://survivalcartola.github.io/about/</loc>
+    <loc>http://localhost:1313/categories/manifestos/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/pol%C3%ADtica/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/resist%C3%AAncia/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/sa%C3%BAde/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stf/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tirania_judicial/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tirania/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vacina/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/judicial-post/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/meu-primeiro-artigo/</loc>
+    <lastmod>2025-06-04T05:59:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/an%C3%A1lises/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/novo-artigo/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ci%C3%AAncia/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/clima/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/epistemologia/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/verdade/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/agenda_2030/</loc>
   </url>
 </urlset>
