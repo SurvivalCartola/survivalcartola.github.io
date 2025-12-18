@@ -2,45 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cartola Survival</title>
-    <link>https://survivalcartola.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Cartola Survival</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://survivalcartola.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tecnocracia</title>
+      <link>http://localhost:1313/tags/tecnocracia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tecnocracia/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Alexandre De Moraes</title>
-      <link>https://survivalcartola.github.io/tags/alexandre-de-moraes/</link>
+      <link>http://localhost:1313/tags/alexandre-de-moraes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://survivalcartola.github.io/tags/alexandre-de-moraes/</guid>
+      <guid>http://localhost:1313/tags/alexandre-de-moraes/</guid>
       <description></description>
     </item>
     <item>
       <title>Censura</title>
-      <link>https://survivalcartola.github.io/tags/censura/</link>
+      <link>http://localhost:1313/tags/censura/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://survivalcartola.github.io/tags/censura/</guid>
+      <guid>http://localhost:1313/tags/censura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Corrupção Científica</title>
+      <link>http://localhost:1313/tags/corrup%C3%A7%C3%A3o-cient%C3%ADfica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/corrup%C3%A7%C3%A3o-cient%C3%ADfica/</guid>
       <description></description>
     </item>
     <item>
       <title>Globalismo</title>
-      <link>https://survivalcartola.github.io/tags/globalismo/</link>
+      <link>http://localhost:1313/tags/globalismo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://survivalcartola.github.io/tags/globalismo/</guid>
+      <guid>http://localhost:1313/tags/globalismo/</guid>
       <description></description>
     </item>
     <item>
       <title>Juristocracia</title>
-      <link>https://survivalcartola.github.io/tags/juristocracia/</link>
+      <link>http://localhost:1313/tags/juristocracia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://survivalcartola.github.io/tags/juristocracia/</guid>
+      <guid>http://localhost:1313/tags/juristocracia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lei Natural</title>
+      <link>http://localhost:1313/tags/lei-natural/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lei-natural/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liberdade</title>
+      <link>http://localhost:1313/tags/liberdade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/liberdade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resistência</title>
+      <link>http://localhost:1313/tags/resist%C3%AAncia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/resist%C3%AAncia/</guid>
       <description></description>
     </item>
     <item>
       <title>STF</title>
-      <link>https://survivalcartola.github.io/tags/stf/</link>
+      <link>http://localhost:1313/tags/stf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://survivalcartola.github.io/tags/stf/</guid>
+      <guid>http://localhost:1313/tags/stf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tirania</title>
+      <link>http://localhost:1313/tags/tirania/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tirania/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vacina</title>
+      <link>http://localhost:1313/tags/vacina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vacina/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ciência</title>
+      <link>http://localhost:1313/tags/ci%C3%AAncia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ci%C3%AAncia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clima</title>
+      <link>http://localhost:1313/tags/clima/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/clima/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Epistemologia</title>
+      <link>http://localhost:1313/tags/epistemologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/epistemologia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Verdade</title>
+      <link>http://localhost:1313/tags/verdade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/verdade/</guid>
       <description></description>
     </item>
   </channel>
