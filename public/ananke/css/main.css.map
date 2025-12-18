@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/miguelcs/meusite",
+	"sourceRoot": "/home/miguel/meusite",
 	"sources": [
 		"ananke/css/main.css"
 	],
