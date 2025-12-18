@@ -2,73 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cartola Survival</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://survivalcartola.github.io/categories/</link>
     <description>Recent content in Categories on Cartola Survival</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://survivalcartola.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tecnocracia</title>
+      <link>https://survivalcartola.github.io/categories/tecnocracia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://survivalcartola.github.io/categories/tecnocracia/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cartola Survival</title>
-      <link>http://localhost:1313/categories/cartola-survival/</link>
+      <link>https://survivalcartola.github.io/categories/cartola-survival/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/cartola-survival/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ciência</title>
-      <link>http://localhost:1313/categories/ci%C3%AAncia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/ci%C3%AAncia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Refutação</title>
-      <link>http://localhost:1313/categories/refuta%C3%A7%C3%A3o/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/refuta%C3%A7%C3%A3o/</guid>
+      <guid>https://survivalcartola.github.io/categories/cartola-survival/</guid>
       <description></description>
     </item>
     <item>
       <title>Doutrina</title>
-      <link>http://localhost:1313/categories/doutrina/</link>
+      <link>https://survivalcartola.github.io/categories/doutrina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/doutrina/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filosofia</title>
-      <link>http://localhost:1313/categories/filosofia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/filosofia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Manifestos</title>
-      <link>http://localhost:1313/categories/manifestos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/manifestos/</guid>
+      <guid>https://survivalcartola.github.io/categories/doutrina/</guid>
       <description></description>
     </item>
     <item>
       <title>Política</title>
-      <link>http://localhost:1313/categories/pol%C3%ADtica/</link>
+      <link>https://survivalcartola.github.io/categories/pol%C3%ADtica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/pol%C3%ADtica/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Saúde</title>
-      <link>http://localhost:1313/categories/sa%C3%BAde/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/sa%C3%BAde/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Análises</title>
-      <link>http://localhost:1313/categories/an%C3%A1lises/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/an%C3%A1lises/</guid>
+      <guid>https://survivalcartola.github.io/categories/pol%C3%ADtica/</guid>
       <description></description>
     </item>
   </channel>

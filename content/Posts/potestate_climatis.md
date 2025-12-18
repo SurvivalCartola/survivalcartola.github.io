@@ -1,12 +1,10 @@
 +++
 title= "De Potestate Climatis: O Tratado Contra a Usurpação Tecnocrática"
 date= 2025-12-18
-draft= true
-tags= ["tecnocracia"]
-categories= ["Ciência", "Refutação", "Cartola Survival"]
+draft= false
+tags= ["tecnocracia", "clima"]
+categories= ["Tecnocracia"]
 +++
-
-
 
 # De Potestate Climatis: O Tratado Contra a Usurpação Tecnocrática
 
