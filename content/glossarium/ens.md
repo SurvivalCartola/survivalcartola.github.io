@@ -3,7 +3,7 @@ title: "ENS"
 draft: false
 ---
 
-## ***ENS lll(Ser)***
+## ***ENS (Ser)***
 
 ### ***Verbum Verum***
 
