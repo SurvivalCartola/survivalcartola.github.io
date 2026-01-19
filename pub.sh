@@ -14,7 +14,7 @@ echo "✅ SSH verificado com sucesso."
 play -nq -t alsa synth 0.2 sine 1200
 
 # Gerar site estático com Hugo
-echo "⚙️ Gerando site com Hugo..." | pv -qL 10
+echo "⚙️ Gerando site com Hugo..."
 hugo
 if [ $? -ne 0 ]; then
   echo "❌ Erro ao gerar site com Hugo."
