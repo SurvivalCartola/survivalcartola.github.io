@@ -1,3 +1,4 @@
+
 baseURL = "https://survivalcartola.github.io/"
 languageCode = "pt-br"
 title = "Cartola Survival"
@@ -9,9 +10,9 @@ defaultContentLanguage = "pt-br"
 [params]
   customCSS = ["css/tecnoruina.css"]
   author = "Miguel"
-  description = "Portal de resistência ideológica, sobrevivencialismo e verdade inegociável."
+  description = "Sobre o Ser, a Verdade e a Ordem."
   show_reading_time = true
-  mainSections = ["posts"]
+  mainSections = ["tractatus"]
 
 [markup]
   [markup.goldmark]
@@ -22,18 +23,24 @@ defaultContentLanguage = "pt-br"
 
   [[menu.main]]
     identifier = "home"
-    name = "Início"
+    name = "Initium"
     url = "/"
     weight = 1
 
-  [[menu.main]]
-    identifier = "posts"
-    name = "Artigos"
-    url = "/posts/"
+ [[menu.main]]
+    identifier = "glossarium"
+    name = "Glossarium"
+    url = "/glossarium/"
     weight = 2
 
   [[menu.main]]
-    identifier = "about"
-    name = "Sobre"
-    url = "/about/"
+    identifier = "tractatus"
+    name = "Tractatus"
+    url = "/tractatus/"
     weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Methodo"
+    url = "/about/"
+    weight = 4

@@ -249,21 +249,41 @@ article, article p, article span, article div,
     color: #d4d4d4 !important;
 }
 
-/*Forçar Tipografia dentro dos artigos.*/
+/*Forçar Tipografia dentro dos tratados.*/
 article p {
     font-family: 'Lora', serif !important;
 }
 
-/*Define a cor dos artigos na sessão artigos.*/
+/*Define a cor dos tratados na sessão tractatus.*/
 
 .bg-white {
     background-color: #1a1a1a !important;
 
 }
 
-/* Ajusta a altura da logo.png (Brasão Paródico) */
-.logo img {
-  height: 60px;
-  width: auto;
-  display: block;
+/* Rodapé */
+
+.site-footer {
+  text-align: center;
+  margin-top: 4rem;
+  padding: 2rem 1rem;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.footer-sentence {
+  font-style: italic;
+  margin-bottom: 0.75rem;
+}
+
+.footer-divider {
+  width: 40px;
+  height: 1px;
+  background: #aaa;
+  margin: 0.75rem auto;
+}
+
+.footer-meta {
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
 }

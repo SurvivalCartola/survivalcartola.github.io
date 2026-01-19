@@ -1,6 +1,6 @@
 ---
-title: "Sobre"
-description: "Conheça a missão do Cartola Survival"
+title: "Methodo"
+description: "Criteria formalia rectae intelligendi."
 date: 2025-07-11
 ---
 

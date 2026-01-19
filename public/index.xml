@@ -1,33 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Início on Cartola Survival</title>
+    <title>Initium on Cartola Survival</title>
     <link>https://survivalcartola.github.io/</link>
-    <description>Recent content in Início on Cartola Survival</description>
+    <description>Recent content in Initium on Cartola Survival</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://survivalcartola.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>De Potestate Climatis: O Tratado Contra a Usurpação Tecnocrática</title>
-      <link>https://survivalcartola.github.io/posts/potestate_climatis/</link>
+      <link>https://survivalcartola.github.io/tractatus/potestate_climatis/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://survivalcartola.github.io/posts/potestate_climatis/</guid>
+      <guid>https://survivalcartola.github.io/tractatus/potestate_climatis/</guid>
       <description>De Potestate Climatis: O Tratado Contra a Usurpação Tecnocrática PROÊMIO — DA NATUREZA DA FALÁCIA E DO ERRO FUNDACIONAL&#xA;Ergo, antes de ingressarmos na refutação plena, impõe-se erigir o proêmio — não como mero vestibular retórico, mas como o átrio conceitual onde se delineia a patologia lógica que acomete o discurso ambiental transformado em instrumento político. Pois o que aqui se denuncia não é a existência de fatos empíricos, nem a legitimidade da investigação científica, mas a operação intelectualmente fraudulenta pela qual fatos descritivos são transfigurados, por alquimia ideológica, em mandamentos morais inquestionáveis e, mais grave ainda, em justificativas para a expansão ilimitada do poder estatal e supranacional.</description>
     </item>
     <item>
       <title>STF: A Cúpula da Nova Inquisição Brasileira</title>
-      <link>https://survivalcartola.github.io/posts/tirania_judicial/</link>
+      <link>https://survivalcartola.github.io/tractatus/tirania_judicial/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://survivalcartola.github.io/posts/tirania_judicial/</guid>
+      <guid>https://survivalcartola.github.io/tractatus/tirania_judicial/</guid>
       <description>STF: A Nova Cúpula da Inquisição Brasileira I. DA USURPAÇÃO TELEOLÓGICA: A PERVERSÃO DA CAUSA FINAL A causa final — termo filosófico aristotélico que designa o propósito último e essencial de um ser ou instituição — do Poder Judiciário é a aplicação imparcial da lei. O Supremo Tribunal Federal corrompeu absolutamente sua causa final, transmutando-a de guardião da Constituição para instrumento de hegemonia político-ideológica. Esta usurpação teleológica manifesta-se na sistemática substituição do texto constitucional pelo arbítrio discricionário dos ministros, que passaram a operar como um comitê de salvação pública doutrinária.</description>
     </item>
     <item>
-      <title>Sobre</title>
+      <title>Methodo</title>
       <link>https://survivalcartola.github.io/about/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://survivalcartola.github.io/about/</guid>
       <description>I — JUSTIFICAÇÃO ABSOLUTA: POR QUE EXISTIMOS, POR QUE LUTAMOS A Ontologia da Rebelião Contra o Colapso A existência do Cartola Survival constitui um imperativo ontológico em meio ao processo irreversível de dissolução teleológica que assola a civilização ocidental.&#xA;A ontoteologia desviada — do grego ontos (“ser”), theos (“Deus”) e logia (“discurso” ou “estudo”) — é a deformação histórica do arcabouço metafísico que unia o estudo do Ser à teologia, conceito sistematizado e posteriormente criticado por Martin Heidegger (Identität und Differenz, 1957).</description>
+    </item>
+    <item>
+      <title>ENS</title>
+      <link>https://survivalcartola.github.io/glossarium/ens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://survivalcartola.github.io/glossarium/ens/</guid>
+      <description>ENS (Ser) Verbum Verum Ens é aquilo que é enquanto é (ens inquantum ens): tudo o que possui actus essendi, seja como existente em ato, seja como sujeito real de potências ordenadas ao ato. O ser não é uma noção derivada, construída ou reflexiva, mas o primeiro inteligível do intelecto humano (primum cognitum), apreendido implicitamente antes de toda determinação categorial, definição ou juízo.&#xA;O ser não é gênero — pois não se divide por diferenças específicas —, não é abstração lógica, nem produto da linguagem.</description>
+    </item>
+    <item>
+      <title>EXISTENTIA</title>
+      <link>https://survivalcartola.github.io/glossarium/existentia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://survivalcartola.github.io/glossarium/existentia/</guid>
+      <description>EXISTENTIA (Existência) Verbum Verum&#xA;Existentia est actus quo ens creatum est in rerum natura, id est, exercet esse receptum extra nihilum.&#xA;Não designa vivência subjetiva, estado psicológico, biografia individual ou mera presença empírica, mas a atualidade real do ente, pela qual a essência possível se encontra efetivamente no ser.&#xA;Na metafísica clássica, especialmente em São Tomás de Aquino, existentia supõe a distinção real entre essência e ser nas criaturas:</description>
     </item>
   </channel>
 </rss>

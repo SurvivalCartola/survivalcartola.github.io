@@ -1,3 +1,4 @@
+
 <footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
 
   <!-- Linha 1: frase --> 
