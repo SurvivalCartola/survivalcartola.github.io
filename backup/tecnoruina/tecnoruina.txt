@@ -11,7 +11,7 @@ body, h1, h2, h3, p, ul {
 body {
     background-color: #0b0b0b !important;
     color: #d4d4d4 !important;
-    font-family: 'GaramondLibre', serif !important;
+    font-family: 'Lora', serif !important;
     font-weight: 400;
     line-height: 1.7;
     font-size: 18px;
@@ -21,7 +21,7 @@ body {
 
 /* Títulos */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'GaramondLibre', serif;
+    font-family: 'Cinzel', serif;
     font-weight: 700;
     letter-spacing: 0.5px;
     text-transform: uppercase;
@@ -243,25 +243,25 @@ nav a:hover {
         font-size: 16px;
     }
 }
-/* Forçar a cor tipográfica em todo corpo de texto. */
+/*Forçar a cor tipográfica em todo corpo de texto. */
 article, article p, article span, article div,
 .post-content, .entry-content, post-body {
     color: #d4d4d4 !important;
 }
 
-/* Forçar Tipografia dentro dos tratados. */
+/*Forçar Tipografia dentro dos tratados.*/
 article p {
-    font-family: 'GaramondLibre', serif !important;
+    font-family: 'Lora', serif !important;
 }
 
-/* Define a cor dos tratados na sessão tractatus. */
+/*Define a cor dos tratados na sessão tractatus.*/
 
 .bg-white {
     background-color: #1a1a1a !important;
 
 }
 
-/* Rodapé. */
+/* Rodapé */
 
 .site-footer {
   text-align: center;
@@ -287,41 +287,3 @@ article p {
   font-variant: small-caps;
   letter-spacing: 0.04em;
 }
-
-/* Declarar fonte local. */
-
-@font-face {
-    font-family: 'GaramondLibre';
-    src: url('/fontes/GaramondLibre-Regular.woff2') format('woff2'),
-         url('/fontes/GaramondLibre-Regular.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GaramondLibre';
-    src: url('/fontes/GaramondLibre-Italic.woff2') format('woff2'),
-         url('/fontes/GaramondLibre-Italic.woff') format('woff');
-    font-weight: 400;
-    font-style: italic;
-}
-
-/* Bold. */
-
-@font-face {
-    font-family: 'GaramondLibre';
-    src: url('/fontes/GaramondLibre-Bold.woff2') format('woff2'),
-         url('/fontes/GaramondLibre-Bold.woff') format('woff');
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GaramondLibre';
-    src: url('/fontes/GaramondLibre-BoldItalic.woff2') format('woff2'),
-         url('/fontes/GaramondLibre-BoldItalic.woff') format('woff');
-    font-weight: 700;
-    font-style: italic;
-}
-
-
