@@ -292,16 +292,16 @@ article p {
 
 @font-face {
     font-family: 'GaramondLibre';
-    src: url('/fontes/GaramondLibre-Regular.woff2') format('woff2'),
-         url('/fontes/GaramondLibre-Regular.woff') format('woff');
+    src: url('../fonts/GaramondLibre-Regular.woff2') format('woff2'),
+         url('../fonts/GaramondLibre-Regular.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'GaramondLibre';
-    src: url('/fontes/GaramondLibre-Italic.woff2') format('woff2'),
-         url('/fontes/GaramondLibre-Italic.woff') format('woff');
+    src: url('../fonts/GaramondLibre-Italic.woff2') format('woff2'),
+         url('../fonts/GaramondLibre-Italic.woff') format('woff');
     font-weight: 400;
     font-style: italic;
 }
@@ -310,18 +310,16 @@ article p {
 
 @font-face {
     font-family: 'GaramondLibre';
-    src: url('/fontes/GaramondLibre-Bold.woff2') format('woff2'),
-         url('/fontes/GaramondLibre-Bold.woff') format('woff');
+    src: url('../fonts/GaramondLibre-Bold.woff2') format('woff2'),
+         url('/fonts/GaramondLibre-Bold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'GaramondLibre';
-    src: url('/fontes/GaramondLibre-BoldItalic.woff2') format('woff2'),
-         url('/fontes/GaramondLibre-BoldItalic.woff') format('woff');
+    src: url('../fonts/GaramondLibre-BoldItalic.woff2') format('woff2'),
+         url('../fonts/GaramondLibre-BoldItalic.woff') format('woff');
     font-weight: 700;
     font-style: italic;
 }
-
-
