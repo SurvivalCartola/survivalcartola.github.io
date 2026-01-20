@@ -3,22 +3,28 @@ title: "Glossarium"
 description: "Determinatio verborum secundum ordinem entis."
 ---
 
-Nenhuma ciência é possível onde os termos fundamentais carecem de sentido estável.
+Onde os termos são equívocos,
+o pensamento é impotente.
 
-O presente glossário recolhe e expõe vocábulos essenciais da metafísica, da lógica, da moral e da filosofia política, segundo o uso clássico, anterior às deformações modernas da linguagem.
+Não há ciência sem distinções,
+nem distinções sem significados estáveis.
 
-Cada verbete é estruturado para:
+Este glossário expõe termos primeiros
+segundo seu sentido próprio,
+fundado na estrutura do ser
+e na analogia do ente.
 
-determinar o sentido próprio do termo (verbum verum);
+Cada verbete:
 
-identificar suas corrupções conceituais;
+distingue o verdadeiro do equívoco;
 
-restituir sua significação objetiva segundo a ordem do ser;
+separa o uso legítimo da corrupção moderna;
 
-explicitar seu uso legítimo no discurso racional.
+restitui o termo à ordem inteligível da realidade.
 
-Os verbetes não são definições nominais nem convenções linguísticas.
-São distinções reais, fundadas na estrutura dos entes e na analogia do ser.
+As definições aqui expostas
+não procedem de convenção,
+mas de conformidade ao real.
 
-Onde os termos são restaurados,
-o pensamento recupera sua capacidade de verdade.
+Onde o nome é restaurado,
+o intelecto reencontra sua medida.

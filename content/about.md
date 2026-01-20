@@ -1,8 +1,8 @@
----
-title: "Methodo"
-description: "Criteria formalia rectae intelligendi."
-date: 2025-07-11
----
++++
+title= "Methodo"
+description= "Criteria formalia rectae intelligendi."
+date= 2025-07-11
++++
 
 # I — JUSTIFICAÇÃO ABSOLUTA: POR QUE EXISTIMOS, POR QUE LUTAMOS
 
@@ -159,15 +159,15 @@ O **Cartola Survival** constitui o tribunal supremo da resistência ontológica,
 A Agenda 2030, promulgada pelo Fórum Econômico Mundial, manifesta-se como **metapolítica da servidão**, conceito escolástico que designa a engenharia de dominação global sob pretextos humanitários, impondo vigilância biométrica e anulação da soberania individual.  
 
 Esta plataforma proclama a **ruptura radical** como dever escatológico, configurando-se como veredicto contra a falência moral terminal:  
-- **Axiológica** — pela negação da verdade;  
-- **Política** — pela legalização da tirania;  
+- **Axiológica** — pela negação da verdade; 
+- **Política** — pela legalização da tirania; 
 - **Espiritual** — pela aniquilação do Logos.
 
 ---
 
 ## A — SOBREVIVÊNCIA INTEGRAL: A DOUTRINA FUNDACIONAL
 
-A **sobrevivência integral** representa a doutrina fundacional do Cartola Survival.  
+A **sobrevivência integral** representa a doutrina fundacional do Cartola Survival. 
 Enraizada na tradição clássica de **Xenofonte** e **Cícero**, define-se como a restauração da **autarquia material**, da **lucidez intelectual** e da **soberania espiritual** contra a **gnose antropocêntrica** — conceito tomista que denuncia a substituição de Deus pelo homem como medida de todas as coisas.  
 
 A imposição de moedas digitais estatais (**CBDC**), como testada na China (2021), configura a **escravidão financeira**, aniquilando a liberdade axiológica, consolidando o controle político e destruindo a dignidade espiritual.  
@@ -179,9 +179,9 @@ Esta plataforma impõe-se como **arsenal doutrinário**, forjando resistentes pa
 
 A missão do Cartola Survival manifesta-se como juízo inegociável contra a **anomia espiritual**, termo escolástico que designa a ruptura total com a ordem divina, consumada na modernidade pela **religião globalista da ONU**.  
 
-- Cada ensinamento configura **uma sentença** contra a apostasia cultural.  
-- Cada vídeo representa **uma arma** contra a neuroprogramação.  
-- Cada palavra proclama **a verdade** como antídoto à profanação universal.  
+- Cada ensinamento configura **uma sentença** contra a apostasia cultural. 
+- Cada vídeo representa **uma arma** contra a neuroprogramação. 
+- Cada palavra proclama **a verdade** como antídoto à profanação universal. 
 
 A **legalização da eutanásia infantil** na Bélgica (2014) revela-se como **teologização da morte**, subvertendo a moral axiológica, institucionalizando a barbárie política e consagrando a ruína espiritual.  
 

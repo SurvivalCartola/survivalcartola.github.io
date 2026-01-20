@@ -3,22 +3,26 @@ title: "Tractatus"
 description: "Expositio ordinata veritatis secundum causas."
 ---
 
-Um tratado não é uma opinião desenvolvida, mas a exposição ordenada de uma verdade segundo suas causas.
+Um tratado é o exercício da razão
+segundo a ordem da verdade.
 
-Os textos aqui reunidos procedem:
+Ele procede:
 
-a partir de princípios definidos;
+de princípios determinados;
 
 por distinções necessárias;
 
-segundo a prioridade do ser sobre o pensamento;
+em subordinação ao ser;
 
-e em conformidade com o ordo cognoscendi.
+visando o conhecimento das causas.
 
-Cada tratado supõe os termos restituídos no Glossarium e visa explicitar suas consequências no âmbito metafísico, moral ou político.
+Os tratados aqui reunidos
+supõem os termos restituídos no Glossarium
+e desenvolvem suas consequências
+no âmbito metafísico, moral e político.
 
-Não se busca persuadir pela retórica nem convencer pelo afeto,
-mas conformar o intelecto àquilo que é.
+Não se escreve para persuadir,
+mas para ordenar.
 
-Onde há ordem no discurso,
+Onde o discurso segue a ordem do real,
 há possibilidade de ciência.
