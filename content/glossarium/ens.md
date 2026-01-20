@@ -117,8 +117,6 @@ O ***ens*** não é apenas um **conceito da metafísica especulativa**, mas o **
 Em termos **doutrinários**, afirma-se um **princípio irredutível**:
 **a negação do ser destrói a possibilidade do pensamento; o reconhecimento do ser é condição necessária da verdade**.
 
-Segue o ***Usus Rectus*** com **negrito** e *itálico* aplicados de modo **estritamente doutrinário**, destacando apenas os **conceitos ontológicos**, **distinções técnicas** e **sentenças normativas**, sem retórica supérflua:
-
 ---
 
 ## ***Usus Rectus***
@@ -276,21 +274,6 @@ Não se pode dar a cada um **o que lhe é devido** sem saber **o que ele é**.
 A justiça pressupõe o ser como **medida objetiva do ius**, e não como produto da vontade, do consenso ou da força.
 
 Onde o ser é eclipsado, o direito converte-se em técnica de poder.
-
----
-
-### **VI. *Regra Perene***
-
-O ser **não é um exemplo entre outros**:
-é aquilo **pelo qual todo exemplo é inteligível**.
-
-Onde o ser é reconhecido, **a razão julga**;
-onde o ser é negado, **tudo se dissolve em arbítrio**.
-
-Sem o ser, não há verdade;
-sem o ser, não há bem;
-sem o ser, não há justiça;
-sem o ser, não há sequer pensamento.
 
 ---
 

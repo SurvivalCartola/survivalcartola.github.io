@@ -2,10 +2,8 @@
 title= "EXISTENTIA"
 draft= false
 +++
----
-
-***EXISTENTIA* (Existência)**
-***Verbum Verum***
+# ***EXISTENTIA* (Existência)**
+### ***Verbum Verum***
 
 ***Existentia est actus quo ens creatum est in rerum natura, id est, exercet esse receptum extra nihilum.***
 
@@ -22,7 +20,7 @@ A **existência não cria a essência**, nem a define; **atualiza-a no plano do 
 
 ---
 
-**CORRUPTIO NOVAE LINGUAE**
+### **CORRUPTIO NOVAE LINGUAE**
 
 Na **linguagem moderna degradada**, *existentia* é **corrompida por múltiplas reduções**:
 
@@ -38,7 +36,7 @@ A existência **deixa de ser ato ontológico** e é **reduzida a sentimento, con
 
 ---
 
-**RESTITUTIO SIGNIFICATI**
+### **RESTITUTIO SIGNIFICATI**
 
 Restituir *existentia* ao seu **sentido próprio** é afirmar que:
 
@@ -61,7 +59,7 @@ non affectus mentis.***
 
 ---
 
-**COMMENTARIUM DOCTRINALE**
+### **COMMENTARIUM DOCTRINALE**
 
 A noção de ***existentia*** ocupa **lugar central na metafísica realista**, pois exprime a **atualidade do ente enquanto tal**. É por ela que a **essência possível** se encontra **efetivamente na ordem do real**. Enquanto a ***essentia*** responde ao ***quid est***, a **existência** supõe o ***an est***, isto é, **o fato mesmo de que o ente é**.
 
@@ -75,7 +73,7 @@ No **ápice dessa distinção** encontra-se a **diferença absoluta entre Deus e
 
 ---
 
-**USUS RECTUS**
+### **USUS RECTUS**
 
 O uso correto do termo ***existentia*** exige **rigor metafísico**, sob pena de sua **dissolução em linguagem psicológica, literária ou ideológica**. As indicações seguintes delimitam seu **emprego legítimo** no **discurso filosófico e doutrinário**.
 
@@ -145,7 +143,7 @@ non narratio vitae.***
 
 ---
 
-**NOTAE ADIUNCTAE**
+### **NOTAE ADIUNCTAE**
 
 ---
 
@@ -213,7 +211,7 @@ Segue a **Sententia Finalis** com **aplicação estrita de negrito e itálico se
 
 ---
 
-**SENTENTIA FINALIS**
+### **SENTENTIA FINALIS**
 
 ***Nihil est ens in actu nisi per existentiam.***
 
