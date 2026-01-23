@@ -10,7 +10,7 @@ Nós, os herdeiros da tradição ocidental, da filosofia grega, do direito roman
 
 **SESSÃO I: A RETÓRICA DA SUSTENTABILIDADE COMO CAVALO DE TRÓIA DO CONTROLE**
 
-**Premissa Maior:** Todo poder centralizado, não contido pelos freios e contrapesos da tradição, da soberania nacional e da moralidade objetiva, tende inexoravelmente à tirania, como demonstrou Lord Acton e foi corroborado pela experiência histórica de impérios decadentes e estados totalitários.
+**Premissa Maior:** Todo poder centralizado, não limitado por princípios objetivos de finalidade, proporção e competência, da soberania nacional e da moralidade objetiva, tende inexoravelmente à tirania, como demonstrou Lord Acton e foi corroborado pela experiência histórica de impérios decadentes e estados totalitários.
 
 **Premissa Menor:** A Agenda 2030, através de sua linguagem universalista e de seus “Objetivos de Desenvolvimento Sustentável” (ODS), constitui a arquitetura para a maior centralização de poder já imaginada, transferindo progressivamente a autoridade decisória de nações soberanas e comunidades locais para instâncias globais não eleitas e incontáveis.
 
