@@ -4,6 +4,8 @@ date= 2026-01-01
 draft= false
 +++
 
+# De Limite Scientiae in Ordine Practico
+
 ## PROÊMIO — DO ERRO METODOLÓGICO FUNDAMENTAL
 
 Antes de proceder à refutação das teses climáticas enquanto fundamento de políticas coercitivas, é necessário determinar o erro metodológico que lhes serve de base. Tal erro não consiste na afirmação de fatos empíricos nem na legitimidade da investigação científica, mas na passagem ilegítima do domínio descritivo ao normativo, sem mediação racional adequada.
@@ -38,30 +40,27 @@ Estabelecido esse ponto, fica claro que, no nível descritivo, os fatos A e B s�
 
 ## III. ANÁLISE DA CONCLUSÃO — O NÍVEL NORMATIVO
 
-Ultrapassado o plano descritivo, o discurso climático introduz uma conclusão de natureza normativa. Já não se trata de afirmar relações causais entre fenômenos físicos, mas de estabelecer o que deve ser feito, proibido ou imposto no âmbito moral, político e jurídico.
+A conclusão usualmente apresentada pode ser formulada, em termos gerais, do seguinte modo: em razão dos efeitos atribuídos às emissões de dióxido de carbono, impõe-se a adoção obrigatória de determinadas condutas humanas, políticas públicas e reorganizações econômicas. Tal proposição pertence ao domínio normativo.
 
-A conclusão usualmente apresentada pode ser formulada, em termos gerais, do seguinte modo: em razão dos efeitos atribuídos às emissões de dióxido de carbono, impõe-se a adoção obrigatória de determinadas condutas humanas, políticas públicas e reorganizações econômicas. Tal proposição não descreve um fato, mas prescreve uma ordem de ação, e por isso pertence inteiramente ao domínio normativo.
+Dos enunciados descritivos anteriormente admitidos não se segue, por si mesmos, qualquer obrigação moral ou política. Para que uma conclusão normativa seja válida, é necessário introduzir princípios práticos adicionais que estabeleçam por que determinados estados de coisas devem ser evitados, priorizados ou corrigidos.
 
-Essa transição constitui o ponto crítico da argumentação. Dos enunciados descritivos anteriormente admitidos não se segue, por si mesmos, qualquer obrigação moral ou política. Para que uma conclusão normativa seja válida, é necessário introduzir princípios práticos adicionais que estabeleçam por que determinados estados de coisas devem ser evitados, priorizados ou corrigidos.
+A conclusão normativa pressupõe, ainda que implicitamente, proposições do seguinte tipo:
 
-Com efeito, a conclusão normativa pressupõe, ao menos implicitamente, proposições do seguinte tipo:
+ * que certos efeitos físicos são moralmente maus em si mesmos;
+ * que a prevenção desses efeitos justifica restrições à ação humana;
+ * que determinadas autoridades possuem legitimidade para impor tais restrições;
+ * que os fins perseguidos têm precedência sobre bens concorrentes, como liberdade, soberania ou proporcionalidade.
+Tais proposições não pertencem à ciência experimental. São juízos práticos que exigem fundamentação moral e política própria. Quando permanecem implícitas, a conclusão aparenta decorrer dos fatos, quando na realidade depende de princípios normativos não demonstrados.
 
-* que certos efeitos físicos são moralmente maus em si mesmos;
-* que a prevenção desses efeitos justifica restrições à ação humana;
-* que determinadas autoridades possuem legitimidade para impor tais restrições;
-* que os fins perseguidos têm precedência sobre bens concorrentes, como liberdade, soberania ou proporcionalidade.
+Segue-se daí que a inferência é formalmente inválida enquanto não se explicitem e se justifiquem essas premissas práticas. A passagem do ser ao dever-ser exige mediação pela razão prática.
 
-Tais proposições não pertencem à ciência experimental. Elas são juízos de valor e, enquanto tais, exigem fundamentação moral e política própria. Quando permanecem implícitas, a conclusão aparenta decorrer necessariamente dos fatos, quando na realidade depende de princípios normativos não demonstrados.
-
-Segue-se daí que a inferência é formalmente inválida enquanto não se explicitem e se justifiquem essas premissas práticas. Não existe inferência racional legítima que conduza diretamente de uma constatação física a um mandamento ético ou jurídico. A passagem do ser ao dever-ser exige sempre mediação pela razão prática.
-
-Portanto, considerada segundo os critérios da lógica e da filosofia prática, a conclusão normativa do discurso climático não decorre da ciência enquanto ciência, mas de escolhas morais e políticas previamente assumidas. Enquanto tais escolhas não forem claramente formuladas e submetidas a exame racional, a conclusão carece de validade demonstrativa.
+Portanto, a conclusão normativa do discurso climático não decorre da ciência enquanto ciência, mas de escolhas morais e políticas previamente assumidas. Enquanto tais escolhas não forem formuladas e examinadas racionalmente, a conclusão carece de validade demonstrativa.
 
 ---
 
 ## IV. EXPLICAÇÃO DAS PREMISSAS NORMATIVAS IMPLÍCITAS
 
-Tendo sido demonstrada a invalidade da inferência direta do plano descritivo ao normativo, cumpre agora explicitar as premissas práticas que, embora não declaradas, são necessárias para que a conclusão normativa do discurso climático seja sustentada. Nenhuma prescrição política universal pode derivar de fatos empíricos sem a interposição de tais princípios.
+Nenhuma prescrição política universal pode derivar de fatos empíricos sem a interposição de princípios normativos. Cumpre, portanto, explicitar as premissas práticas necessárias à conclusão normativa do discurso climático.
 
 Essas premissas não possuem o mesmo estatuto. Entre elas, uma é fundamental, pois estabelece o critério geral de normatividade; as demais são desdobramentos particulares dela.
 
@@ -152,7 +151,7 @@ Além disso, quando diretrizes formuladas como técnicas passam a exercer força
 
 Segue-se daí que o discurso moral ambiental, ao ser convertido em norma política universal, implica necessariamente a redução da autonomia decisória das comunidades políticas e a concentração do poder normativo fora do âmbito próprio da soberania. Tal efeito não é acidental, mas consequência lógica da pretensão normativa universal fundada em critérios técnicos.
 
-Conclusão
+### Conclusão
 
 Portanto, ainda que se abstraia de quaisquer intenções subjetivas, o discurso ambiental normativo, quando institucionalizado, conduz necessariamente à centralização do poder político e à limitação material da soberania. Trata-se de efeito estrutural de um modelo que converte descrições científicas globais em normas políticas universais, ultrapassando os limites próprios da ciência e da autoridade técnica.
 

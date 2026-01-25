@@ -1,7 +1,7 @@
 +++
 title= "STF: A Cúpula da Nova Inquisição Brasileira"
 date= 2025-08-28
-draft= false
+draft= true
 tags= ["STF", "juristocracia", "censura", "globalismo", "Alexandre de Moraes"]
 categories= ["Política", "Cartola Survival"]
 +++
