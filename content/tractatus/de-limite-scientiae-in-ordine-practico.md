@@ -1,5 +1,5 @@
 +++
-title= "De Potestate Climatis: O Tratado Contra a Usurpação Tecnocrática"
+title= "De Limite Scientiae in Ordine Practico"
 date= 2025-12-18
 draft= false
 +++
@@ -56,12 +56,6 @@ Tais proposições não pertencem à ciência experimental. Elas são juízos de
 Segue-se daí que a inferência é formalmente inválida enquanto não se explicitem e se justifiquem essas premissas práticas. Não existe inferência racional legítima que conduza diretamente de uma constatação física a um mandamento ético ou jurídico. A passagem do ser ao dever-ser exige sempre mediação pela razão prática.
 
 Portanto, considerada segundo os critérios da lógica e da filosofia prática, a conclusão normativa do discurso climático não decorre da ciência enquanto ciência, mas de escolhas morais e políticas previamente assumidas. Enquanto tais escolhas não forem claramente formuladas e submetidas a exame racional, a conclusão carece de validade demonstrativa.
-
-### **SÍNTESE DA SEÇÃO**
-
-As cinco premissas ocultas — uma moralista, uma futurista absolutista, uma estatista, uma imperial, e uma coercitiva — formam a verdadeira base da narrativa climática. Nenhuma delas é científica; todas são ideológicas; e nenhuma resiste a exame lógico.
-
-Quando expostas à luz, vê-se que a conclusão climática não é inevitável, não é moralmente fundada, e tampouco decorre dos fatos A e B. É apenas a culminação de um edifício intelectual construído sobre premissas falsificadas, não declaradas e moralmente duvidosas.
 
 ---
 
