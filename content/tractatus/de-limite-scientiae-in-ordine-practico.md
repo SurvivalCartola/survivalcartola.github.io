@@ -6,6 +6,17 @@ draft= false
 
 # De Limite Scientiae in Ordine Practico
 
+## Categoria ontológica
+
+Filosofia prática — razão prática normativa (*ordo practicus*).
+
+**Objeto formal:**
+A legitimidade racional da norma enquanto ordenação do agir humano.
+
+**Objeto material:** 
+Enunciados científicos considerados enquanto premissas descritivas.
+
+
 ## PROÊMIO — DO ERRO METODOLÓGICO FUNDAMENTAL
 
 Antes de proceder à refutação das teses climáticas enquanto fundamento de políticas coercitivas, é necessário determinar o erro metodológico que lhes serve de base. Tal erro não consiste na afirmação de fatos empíricos nem na legitimidade da investigação científica, mas na passagem ilegítima do domínio descritivo ao normativo, sem mediação racional adequada.
