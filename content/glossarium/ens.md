@@ -2,17 +2,17 @@
 title: "ENS"
 draft: false
 ---
-#*ENS* (Ser)
+# *ENS* (Ser)
 
-## Definição:
+### Definição:
 O ser (ens) é aquilo que é, enquanto possui ato de ser (esse).
 
-## Nota ontológica:
+### Nota ontológica:
 O ser não pertence a gênero algum e é predicado analogicamente de tudo o que é.
 
-## Distinção essencial:
+### Distinção essencial:
 – Nos entes criados, o ser é constituído por essência e esse realmente distintos.
 – Em Deus, o ser é idêntico ao esse e à essência.
 
-## Exclusão:
+### Exclusão:
 O ser não se reduz a conceito lógico nem a ente meramente pensado.
