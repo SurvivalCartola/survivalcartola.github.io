@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juristocracia on Cartola Survival</title>
-    <link>https://survivalcartola.github.io/tags/juristocracia/</link>
+    <link>http://localhost:1313/tags/juristocracia/</link>
     <description>Recent content in Juristocracia on Cartola Survival</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://survivalcartola.github.io/tags/juristocracia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/juristocracia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>STF: A Cúpula da Nova Inquisição Brasileira</title>
-      <link>https://survivalcartola.github.io/tractatus/tirania_judicial/</link>
+      <link>http://localhost:1313/tractatus/tirania_judicial/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://survivalcartola.github.io/tractatus/tirania_judicial/</guid>
+      <guid>http://localhost:1313/tractatus/tirania_judicial/</guid>
       <description>STF: A Nova Cúpula da Inquisição Brasileira I. DA USURPAÇÃO TELEOLÓGICA: A PERVERSÃO DA CAUSA FINAL A causa final — termo filosófico aristotélico que designa o propósito último e essencial de um ser ou instituição — do Poder Judiciário é a aplicação imparcial da lei. O Supremo Tribunal Federal corrompeu absolutamente sua causa final, transmutando-a de guardião da Constituição para instrumento de hegemonia político-ideológica. Esta usurpação teleológica manifesta-se na sistemática substituição do texto constitucional pelo arbítrio discricionário dos ministros, que passaram a operar como um comitê de salvação pública doutrinária.</description>
+    </item>
+    <item>
+      <title>STF: A Cúpula da Nova Inquisição Brasileira(não leia, isso é apenas um rascunho)</title>
+      <link>http://localhost:1313/tractatus/judicial-post/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tractatus/judicial-post/</guid>
+      <description>I.1 — STF: A CÚPULA DA NOVA INQUISIÇÃO BRASILEIRA Como ministros togados instauraram um regime absolutista por meio de jurisprudência militante&#xA;Subtítulo: Casos concretos de censura, perseguição política e o golpe de toga institucionalizado&#xA;INTROITUS: A TEOLOGIA DO VERBO TOGADO — O NASCIMENTO DO MAGISTÉRIO SUPREMO Em toda civilização que se encaminha para sua forma terminal de decadência, surge inevitavelmente uma casta de sacerdotes jurídicos, não para preservar a lei natural e o bem comum, mas para operar a transubstanciação da norma em instrumento de controle total.</description>
     </item>
   </channel>
 </rss>
