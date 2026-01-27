@@ -1,7 +1,8 @@
----
-title: "ENS"
-draft: false
----
++++
+title= "ENS"
+draft= false
++++
+
 # *ENS* (Ser)
 
 ### Definição:
