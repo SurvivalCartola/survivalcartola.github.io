@@ -51,6 +51,8 @@ Estabelecido esse ponto, fica claro que, no nível descritivo, os fatos A e B s�
 
 ## III. ANÁLISE DA CONCLUSÃO — O NÍVEL NORMATIVO
 
+O discurso climático introduz uma conclusão de natureza normativa. Estabelecendo o que deve ser feito, proibido ou imposto no âmbito moral, político e jurídico.
+
 A conclusão usualmente apresentada pode ser formulada, em termos gerais, do seguinte modo: em razão dos efeitos atribuídos às emissões de dióxido de carbono, impõe-se a adoção obrigatória de determinadas condutas humanas, políticas públicas e reorganizações econômicas. Tal proposição pertence ao domínio normativo.
 
 Dos enunciados descritivos anteriormente admitidos não se segue, por si mesmos, qualquer obrigação moral ou política. Para que uma conclusão normativa seja válida, é necessário introduzir princípios práticos adicionais que estabeleçam por que determinados estados de coisas devem ser evitados, priorizados ou corrigidos.
