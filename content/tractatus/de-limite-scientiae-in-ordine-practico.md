@@ -146,3 +146,4 @@ As políticas climáticas contemporâneas impõem medidas coercitivas com base e
 Tais princípios não derivam da ciência experimental nem foram demonstrados no plano moral ou político.
 ### Conclusão
 Logo, as políticas climáticas carecem de legitimidade moral e política, ainda que se apoiem em descrições científicas verdadeiras.
+

@@ -2,7 +2,7 @@
 title= "EXISTENTIA"
 draft= false
 +++
-# ***EXISTENTIA* (Existência)**
+# *EXISTENTIA* (Existência)
 
 Definição:
 A existentia é o esse considerado enquanto atualmente exercido no ente, em oposição ao esse apreendido como princípio metafísico em si.
