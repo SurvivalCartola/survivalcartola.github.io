@@ -3,7 +3,7 @@ title= "ESSE"
 draft= false
 +++
 
-# ESSE (esse)
+# ESSE
 
 ### Definição:
 O esse é o ato último pelo qual a essência é constituída em realidade, fazendo que o ente seja em ato.
