@@ -25,7 +25,7 @@ A inferência direta de normas a partir de enunciados descritivos constitui a fa
 
 O erro em questão é, portanto, propriamente prático: consiste em atribuir à competência técnica uma autoridade normativa que lhe é estranha, substituindo o juízo prudencial e político pela descrição científica. Assim, sempre que enunciados científicos são utilizados como fundamento direto de obrigações universais, ultrapassam-se os limites da ciência e ingressa-se no domínio do poder, que deve ser julgado segundo critérios morais e políticos.
 
-## EXPOSIÇÃO DOS FATOS — O NÍVEL DESCRITIVO
+## II. EXPOSIÇÃO DOS FATOS — O NÍVEL DESCRITIVO
 
 No nível estritamente descritivo situam-se os enunciados próprios da ciência experimental, que exprimem estados de coisas e relações causais observáveis na ordem do ser físico.
 
@@ -39,7 +39,7 @@ Enquanto considerados apenas nesse nível, os fatos A e B não possuem caráter 
 
 A análise da passagem desses enunciados descritivos ao plano normativo será objeto das seções subsequentes.
 
-## ANÁLISE DA CONCLUSÃO — O NÍVEL NORMATIVO
+## III. ANÁLISE DA CONCLUSÃO — O NÍVEL NORMATIVO
 
 A conclusão usualmente extraída do discurso climático é de natureza normativa, pois estabelece o que deve ser feito, proibido ou imposto no âmbito moral, político e jurídico. Em termos gerais, tal conclusão pode ser formulada do seguinte modo: em razão dos efeitos atribuídos às emissões de dióxido de carbono, impõe-se a adoção obrigatória de determinadas condutas humanas, políticas públicas e reorganizações econômicas.
 
@@ -55,7 +55,7 @@ Tais proposições são juízos práticos e não pertencem à ciência experimen
 
 Segue-se, portanto, que a conclusão normativa em questão não decorre da ciência enquanto ciência, mas de princípios práticos previamente assumidos. A passagem do ser ao dever-ser exige mediação racional própria da ordem prática.
 
-## EXPLICAÇÃO DAS PREMISSAS NORMATIVAS IMPLÍCITAS
+## IV. EXPLICAÇÃO DAS PREMISSAS NORMATIVAS IMPLÍCITAS
 Nenhuma prescrição política universal pode derivar de fatos empíricos sem a interposição de princípios normativos próprios da razão prática. Cumpre, portanto, explicitar as premissas necessárias à conclusão normativa associada ao discurso climático.
 
 Tais premissas não possuem o mesmo estatuto. Entre elas, uma exerce função fundamental, pois estabelece o critério geral de normatividade a partir do qual as demais se articulam como desdobramentos particulares.
@@ -100,7 +100,7 @@ Assume-se, por fim, que a legitimidade moral dos meios depende primariamente do 
 ### Conclusão
 
 Essas premissas, explícitas ou implícitas, constituem a base real da conclusão normativa associada ao discurso climático. Nenhuma delas pertence ao domínio da ciência experimental; todas são juízos práticos que exigem exame moral e político próprio. A conclusão normativa só se sustenta na medida em que tais premissas são admitidas.
-## DEMONSTRAÇÃO DA INCOERÊNCIA — DA MUDANÇA ILEGÍTIMA DE DOMÍNIO
+## V. DEMONSTRAÇÃO DA INCOERÊNCIA — DA MUDANÇA ILEGÍTIMA DE DOMÍNIO
 Tendo sido explicitadas as premissas normativas implícitas, pode-se agora demonstrar a incoerência da inferência pela qual conclusões morais e políticas são apresentadas como decorrentes da ciência climática. A crítica não recai sobre os enunciados científicos enquanto tais, mas sobre a estrutura racional da conclusão que deles se pretende extrair.
 
 A inferência implícita pode ser reconstruída do seguinte modo:
@@ -121,7 +121,7 @@ Quando essa conclusão é apresentada como exigência da ciência, acrescenta-se
 
 Demonstra-se, portanto, que a conclusão normativa associada ao discurso climático não é consequência necessária dos enunciados científicos que a precedem. Ela depende integralmente de premissas práticas externas à ciência e, enquanto tais, permanece demonstrativamente injustificada. A mudança ilegítima de domínio invalida a pretensão de necessidade atribuída à conclusão.
 
-## DA CONSEQUÊNCIA POLÍTICA NECESSÁRIA DO DISCURSO NORMATIVO AMBIENTAL
+## VI. DA CONSEQUÊNCIA POLÍTICA NECESSÁRIA DO DISCURSO NORMATIVO AMBIENTAL
 Toda norma que se pretende universal exige uma instância capaz de formulá-la, impô-la e garanti-la. Assim, quando um discurso normativo assume pretensão global, sua efetivação implica necessariamente uma reorganização da autoridade política correspondente ao alcance dessa pretensão.
 
 Uma vez que os fenômenos climáticos são definidos como problemas globais, a coerência interna do discurso exige instâncias decisórias igualmente globais. Disso decorre a atribuição de competência normativa a instâncias supranacionais em matérias que, até então, pertenciam à ordem política interna das comunidades políticas particulares.
