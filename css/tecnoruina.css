@@ -1,0 +1,325 @@
+/* Tema Monumental - Cartola Survival */
+
+/* Reset básico */
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Tipografia Base */
+body {
+    background-color: #0b0b0b !important;
+    color: #d4d4d4 !important;
+    font-family: 'GaramondLibre', serif !important;
+    font-weight: 400;
+    line-height: 1.65;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Títulos */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'GaramondLibre', serif;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #e0c58f !important;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    line-height: 1.3;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    border-bottom: 2px solid #a67843 !important;
+    padding-bottom: 10px;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    font-size: 36px;
+    border-bottom: 1px solid #a67843 !important;
+    padding-bottom: 8px;
+    margin-bottom: 0.5em;
+}
+
+h3 {
+    font-size: 28px;
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+    color: #e0c58f !important;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #f1e2b6 !important;
+    text-decoration: underline;
+}
+
+/* Blocos especiais */
+blockquote {
+    font-style: italic;
+    margin: 2em 0;
+    padding: 1em;
+    border-left: 5px solid #a67843 !important;
+    background-color: #1a1a1a !important;
+    color: #c9b48e !important;
+}
+
+/* Código, pré-formatados */
+pre, code {
+    font-family: 'Courier New', monospace;
+    background: #1a1a1a !important;
+    padding: 0.3em 0.6em;
+    border-radius: 4px;
+    color: #d4d4d4 !important;
+}
+
+/* Restante do CSS */
+header, footer, nav {
+    max-width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+ul {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #444 !important;
+    margin: 40px 0;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    color: #888 !important;
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid #444 !important;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 40px 0;
+}
+
+td, th {
+    border: 1px solid #a67843 !important;
+    padding: 12px;
+}
+
+th {
+    background-color: #1f1f1f !important;
+    color: #e0c58f !important;
+}
+
+header {
+    margin-bottom: 60px;
+}
+
+header h1 {
+    font-size: 64px;
+    color: #e0c58f !important;
+}
+
+header p {
+    font-size: 20px;
+    color: #c0bba9 !important;
+    margin-top: 10px;
+}
+
+section {
+    margin-bottom: 80px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+nav li {
+    margin: 0 20px;
+}
+
+nav a {
+    font-size: 18px;
+    color: #e0c58f !important;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    color: #f1e2b6 !important;
+    border-bottom: 2px solid #a67843 !important;
+}
+
+/* Estilo para as tags */
+.tags {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #444 !important;
+    text-align: center;
+}
+
+.tags h3 {
+    font-size: 20px;
+    color: #e0c58f !important;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.tags ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.tags li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.tags a {
+    color: #f1e2b6 !important;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.tags a:hover {
+    color: #ffffff !important;
+}
+
+/* Responsividade básica */
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+    h1 {
+        font-size: 36px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    h3 {
+        font-size: 24px;
+    }
+    header h1 {
+        font-size: 48px;
+    }
+
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+
+    nav li {
+        margin: 10px 0;
+    }
+
+    nav a {
+        font-size: 16px;
+    }
+}
+/* Forçar a cor tipográfica em todo corpo de texto. */
+article, article p, article span, article div,
+.post-content, .entry-content, post-body {
+    color: #d4d4d4 !important;
+}
+
+/* Forçar Tipografia dentro dos tratados. */
+article p {
+    font-family: 'GaramondLibre', serif !important;
+}
+
+/* Define a cor dos tratados na sessão tractatus. */
+
+.bg-white {
+    background-color: #1a1a1a !important;
+
+}
+
+/* Rodapé. */
+
+.site-footer {
+  text-align: center;
+  margin-top: 4rem;
+  padding: 2rem 1rem;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.footer-sentence {
+  font-style: italic;
+  margin-bottom: 0.75rem;
+}
+
+.footer-divider {
+  width: 40px;
+  height: 1px;
+  background: #8f8f8f;
+  margin: 0.75rem auto;
+}
+
+.footer-meta {
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+}
+
+/* Declarar fonte local. */
+
+@font-face {
+    font-family: 'GaramondLibre';
+    src: url('/fonts/GaramondLibre-Regular.woff2') format('woff2'),
+         url('/fonts/GaramondLibre-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GaramondLibre';
+    src: url('/fonts/GaramondLibre-Italic.woff2') format('woff2'),
+         url('/fonts/GaramondLibre-Italic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Bold. */
+
+@font-face {
+    font-family: 'GaramondLibre';
+    src: url('/fonts/GaramondLibre-Bold.woff2') format('woff2'),
+         url('/fonts/GaramondLibre-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GaramondLibre';
+    src: url('/fonts/GaramondLibre-BoldItalic.woff2') format('woff2'),
+         url('/fonts/GaramondLibre-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
