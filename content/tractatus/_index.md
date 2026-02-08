@@ -21,8 +21,7 @@ supõem os termos restituídos no Glossarium
 e desenvolvem suas consequências
 no âmbito metafísico, moral e político.
 
-Não se escreve para persuadir,
-mas para ordenar.
+Se escreve para ordenar, não para persuadir.
 
 Onde o discurso segue a ordem do real,
 há possibilidade de ciência.
