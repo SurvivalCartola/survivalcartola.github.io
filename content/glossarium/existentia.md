@@ -5,17 +5,25 @@ draft= false
 # *EXISTENTIA* (Existência)
 
 Definição:
-
-A existentia é o esse considerado enquanto atualmente exercido no ente, em oposição ao esse apreendido como princípio metafísico em si.
+*Existentia* é a denominação do ente enquanto em ato de ser (*in actu essendi*) e posto fora de suas causas (*extra causas*), isto é, a essência enquanto já atualizada pelo esse e subsistente na ordem do real.
 
 Nota ontológica:
 
-A existentia não constitui ato distinto do esse, nem acrescenta perfeição real à essência, mas exprime o mesmo ato de ser sob a razão de atualidade extramental; por isso, é posterior ao esse segundo a razão e dele totalmente dependente quanto à inteligibilidade.
+O *esse* é o *actus essendi*, ato intrínseco e constitutivo que atualiza a essência.
+A *existentia* não é um ato distinto realmente do *esse*, nem um acidente, mas o próprio ente enquanto em ato de ser.
+Distinguem-se, portanto, esse e existentia *secundum rationem cum fundamento in re*:
+– *Esse*: considerado formalmente como ato.
+– *Existentia*: considerada como o resultado formal desse ato, isto é, o ente já constituído em ato.
 
 Distinção essencial:
 
-– Nos entes criados, pressupõe a distinção real entre essência e esse.
-– Em Deus, identifica-se realmente com o esse e com a essência subsistente.
+– Nos entes criados:
+Essentia = potência real em ordem ao ser.
+Esse = ato que atualiza a essência.
+Existentia = o ente composto (essência + esse) enquanto em ato.
+– Em Deus:
+Não há composição de essência e *esse*.
+Portanto, existentia não designa aspecto realmente distinto, mas o próprio ser subsistente (*ipsum esse subsistens*).
 
 Exclusão:
 

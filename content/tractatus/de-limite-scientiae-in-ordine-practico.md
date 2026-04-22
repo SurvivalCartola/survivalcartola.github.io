@@ -18,7 +18,7 @@ draft= false
 
 ## II. Distinção Essencial: Ordem Especulativa e Ordem Prática
 ### Distinção formal
-**Ordem Especulativa**
+1. **Ordem Especulativa**
 
 Ordenada ao verdadeiro
 
@@ -26,7 +26,7 @@ Julga o que é
 
 Opera por demonstração
 
-**Ordem Prática**
+2. **Ordem Prática**
 
 Ordena ao bem
 
